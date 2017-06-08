@@ -11,6 +11,7 @@ namespace Example01
         private static void Main(string[] args)
         {
             Console.WriteLine("Hello World!!");
+            Console.WriteLine("這是一個基本輸入輸出的範例");
         }
     }
 }
